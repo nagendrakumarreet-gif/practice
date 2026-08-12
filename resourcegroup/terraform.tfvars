@@ -16,6 +16,9 @@ rg = {
     name     = "resourcegroup3"
     location = "centralindia"
   }
-
+ rg5 = {
+    name     = "resourcegroup4"
+    location = "centralindia"
+  }
 
 }
