@@ -21,4 +21,9 @@ rg = {
     location = "centralindia"
   }
 
+  resourcegroup6 = {
+    name     = "resourcegroup5"
+    location = "centralindia"
+  }
+
 }
